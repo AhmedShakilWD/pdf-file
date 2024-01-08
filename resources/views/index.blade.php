@@ -6,8 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{$title}}</title>
 </head>
-<body>
+<body> 
+    {{-- <div style="page-break-before: always;"> --}}
+    <div style="text-align: center">
+        <img src="{{$image}}" alt="Certificate" width="96%">
+    </div>
     
-    <img src="{{$image}}" alt="Certificate" width="100%">
 </body>
 </html>

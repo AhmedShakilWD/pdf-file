@@ -14,6 +14,8 @@
             <input type="text" name="name" id ="name">
             <label for="course">Course Instructor</label>
             <input type="text" name="course" id="course">
+            <label for="founder">Founder</label>
+            <input type="text" name="founder" id="founder">
             <input type="submit" name="Download">
         </form>
         
